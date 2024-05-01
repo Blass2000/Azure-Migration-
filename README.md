@@ -5,7 +5,7 @@ Key link https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/?WT.mc
 
 ![image](https://github.com/Blass2000/Azure-Migration-/assets/89789502/ee071c50-b109-4c5d-969c-d2ecf7bd3ffa)
 
-#Intorduction 
+**Intorduction**
 
 By following these steps and leveraging Azure’s comprehensive tools and frameworks, organizations can ensure a successful and secure migration to the cloud.
 
