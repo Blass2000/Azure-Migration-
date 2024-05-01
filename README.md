@@ -18,6 +18,7 @@ Incorporate the Well-Architected Framework, which offers technical guidance to h
 https://lnkd.in/gcD7gYTi
 
 Wait a sec.... just for the project leaders, so we will be on the same page 
-When talking about the topic of cloud computing services, you must have heard of these concepts, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). They are the three major service categories provided by cloud providers. It is important to understand what they are and what is the difference between them because they will appear on various occasions where cloud computing services are discussed.
+
+🔷 When talking about the topic of cloud computing services, you must have heard of these concepts, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). They are the three major service categories provided by cloud providers. It is important to understand what they are and what is the difference between them because they will appear on various occasions where cloud computing services are discussed.
 
 ![image](https://github.com/Blass2000/Azure-Migration-/assets/89789502/4702e370-ed44-4cb2-a5af-584342757f70)
