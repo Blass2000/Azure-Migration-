@@ -1,4 +1,4 @@
-# Azure-Migration-
+-# Azure-Migration-
 General overview of what steps are required for an Azure Migration Project 
 
 Key link https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/?WT.mc_id=DT-MVP-5001664
@@ -23,3 +23,5 @@ Wait a sec.... just for the project leaders, so we will be on the same page
 
 ![image](https://github.com/Blass2000/Azure-Migration-/assets/89789502/4702e370-ed44-4cb2-a5af-584342757f70)
 
+To furher assist with the overall picture as of the date seen in this documment, here is an overview of the key services associated with the major three cloud vendors
+![image](https://github.com/Blass2000/Azure-Migration-/assets/89789502/28ebdcba-f90c-4ee7-9f4b-ee6d1e988204)
